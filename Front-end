@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav{
+            position: fixed;
+            width: 100%;
+        }
+nav{
+    display: flex;
+    justify-content:space-between ;
+    background-color: rgb(72, 133, 104);
+   height: 70px;
+   align-items: center;
+
+}
+ul{
+    list-style-type: none;
+    display: block flex;
+    align-items: center;
+    
+}
+li{
+    color: white;
+    padding-right: 20px;
+}
+main{
+    padding: 60px;
+}
+body{
+    background-color: rgb(206, 213, 219);
+}
+.outer{
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+    height: 290px;
+    width: 220px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin: 20px;
+}
+.inner{
+    background-color: rgb(209, 228, 222);
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+    margin: 3;
+    width: 170px;
+    height: 200px;
+}
+.phones{
+ display: flex;
+ flex-wrap: wrap;
+ /* justify-content: space-around; */
+
+
+}
+
+footer{
+background-color: white;
+text-align: center;
+align-items: center;
+padding: 40px;
+margin: 0;
+}
+    </style>
+</head>
+<body>
+    <div class="page">
+        <header>
+            <nav>
+                <img src="apple.png" width="40px" height="50px" alt="apple">
+                <ul>
+                    <li>Product</li>
+                    <li>sale</li>
+                    <li>blog</li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+ 
+
+<div class="phones">
+
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+   
+<div class="outer">
+   
+    <div class="inner">
+        <img style="justify-self: center;"  src="images.jpeg" height="170px" alt="">
+    </div>
+    <pre><b>iphone 15 pro 
+ Available $7.59</b>
+    </pre>
+    </div>
+</main>
+        <footer>@all rights reserved</footer>
+    </div>
+</body>
+</html>
